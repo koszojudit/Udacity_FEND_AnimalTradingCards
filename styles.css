@@ -1,0 +1,59 @@
+.card {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  background-color: #FFF;
+  border: 1px solid #57CFDA;
+  color: #222;
+  padding: 16px;
+  width: 300px;
+  box-shadow: 10px 10px 11px 0 rgba(0,0,0,0.11);
+  border-radius: 5px;
+}
+
+#image {
+  width: 300px;
+}
+
+.description {
+  border-top: 1px solid #57CFDA;
+  margin: 16px 0;
+  padding: 0 16px;
+  width: 268px;
+  background-color: #ffffff;
+  line-height: 150%;
+  text-align:justify;
+  font-weight: 200;
+}
+
+.title {
+  font-family: 'Great Vibes', cursive;
+  font-weight: normal;
+  font-size: 40px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  text-align: center;
+	color: #181c27;
+	line-height: 0;
+	border-bottom: solid 1px #57CFDA;
+	padding: 30px 10px;
+	margin: 20px 0 30px;
+
+}
+
+.attributes {
+  list-style: none;
+  padding: 0;
+  line-height: 180%;
+}
+
+.facts > span {
+  font-weight: 600;
+  color: #812E7C;
+}
+
+.fun-fact {
+  font-size: 15px;
+  font-style: italic;
+  line-height: 150%;
+  font-weight: 200;
+}
